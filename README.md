@@ -7,6 +7,8 @@ A Vue.js project utilizing Element UI for the UI components and jsonplaceholder 
 
 This project is a simple Vue.js application that uses Element UI for styling and component structure. It fetches posts and comments from the [jsonplaceholder](https://jsonplaceholder.typicode.com) API and displays them in a list format. Users can view post details and see associated comments.
 
+Check it on: https://main--vue-element-ui.netlify.app
+
 ## Installation
 
 To set up the project locally, follow these steps:
